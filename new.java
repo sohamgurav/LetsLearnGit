@@ -1,2 +1,1 @@
-public class new {
-}
+Hello world
